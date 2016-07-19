@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Your Mom</string>
+    <string name="title_activity_mapactivity">Mapactivity</string>
+    <string name="title_activity_q">Q</string>
+    <string name="title_activity_map_screen">Map</string>
+
+</resources>
